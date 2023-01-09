@@ -1,4 +1,4 @@
-# `@ffxryu.18 `
+# `Mago Creador
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="http://wa.me/+51955095498" target="blank"><img src="https://img.shields.io/badge/Ryu-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -59,6 +59,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`Ryu __________ By Ryu?`
+`Mago __________ By Mago'
 
 
